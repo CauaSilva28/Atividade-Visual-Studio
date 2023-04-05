@@ -61,7 +61,6 @@ namespace Eleição
 
         private void btnfinalizar_Click(object sender, EventArgs e)
         {
-
             btnvoto1.Enabled = false;
             btnvoto2.Enabled = false;
             btnvoto3.Enabled = false;
